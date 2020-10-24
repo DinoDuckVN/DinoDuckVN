@@ -1,8 +1,4 @@
 # Hello 👋
-My username is d1novnowo_ and I'm a PocketMine-MP plugin creator. I'm from Vietnam. You can contact me through [()]()
- 
-
-
-
-
-(<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">)(https://www.facebook.com/d1novnowo/)
+My username is d1novnowo_ and I'm a PocketMine-MP plugin creator. I'm from Vietnam.
+# 📈 My statistic
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DinoVNOwO&hide=contribs,prs)
