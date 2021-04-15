@@ -15,5 +15,5 @@ Tumblr: null
 Telegram: null
 
 # 📈 My Github's statistic
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinovnowo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinovnowo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Labality&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Labality&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
