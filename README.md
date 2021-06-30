@@ -6,15 +6,6 @@ I'm currently work at @CliqueCraft
 
 Facebook: https://www.facebook.com/labality/
 
-Steam: https://steamcommunity.com/id/labality/
-
-Twitter: null
-
-Instagram: null
-
-Tumblr: null
-
-Telegram: null
 
 # 📈 My Github's statistic
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Labality&show_icons=true&theme=tokyonight)
